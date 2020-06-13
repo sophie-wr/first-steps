@@ -1,4 +1,4 @@
-# hello-world
+# first-steps
 This is my first repository to get familiar with Github.
 
 All infromation are taken from https://guides.github.com/activities/hello-world/.
